@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 Finanzas Personales
 
 App de escritorio local para gestión de finanzas personales. Construida con Python + CustomTkinter + SQLite.
@@ -105,3 +106,7 @@ python -m pytest tests/ -v
 | **Matplotlib embebido** | Se integra nativamente con Tkinter mediante FigureCanvasTkAgg |
 | **Service Layer** | Desacopla la lógica de negocio de la UI, permite testing sin levantar ventanas |
 | **Patrón MVC adaptado** | Modelos (SQLAlchemy) + Servicios (lógica) + Vistas (CustomTkinter) |
+=======
+# finanzas-app
+App de uso personal para manejo de finanzas
+>>>>>>> b2a96be17bb32d0228eb676df40cfc26451f260e
